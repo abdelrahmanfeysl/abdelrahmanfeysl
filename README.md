@@ -39,3 +39,21 @@
 [![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&color=informational)](https://docs.microsoft.com/en-us/powershell/)
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
 [![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
+
+## About Me:
+
+### I'm a CS student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Backend. 
+* I’m currently learning Backend, cloud.
+* 💬 Ask me about Backend, cloud.
+* [📫 How to reach me](#contact-me).
+
+
+## contact me
+
+[![facebook](/Images/facebook-new.png)](https://www.facebook.com/abdo.feysl)
+[![instagram](/Images/instagram-new.png)](https://www.instagram.com/abdelrahman_feysl/)
+[![linkedin](/Images/linkedin.png)](https://www.linkedin.com/in/abdelrahman-feysl-4ab758213/)
+
+
+
+
