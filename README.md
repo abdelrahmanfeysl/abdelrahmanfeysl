@@ -20,7 +20,14 @@
 
 
 ### Skills ( Languages & Tools ):
-[![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
+[![framework](https://img.shields.io/badge/framework-nodejs-05122A?style=plastic&logo=javascript&color=informational)](https://nodejs.org/en/)
+[![database](https://img.shields.io/badge/database-MongoDB-05122A?style=plastic&logo=MongoDB&color=informational)](https://www.mongodb.com/)
+[![javascript](https://img.shields.io/badge/language-javascript-05122A?style=plastic&logo=javascript&color=informational)](https://www.javascript.com/)
+[![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
+[![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&color=informational)](https://www.java.com/en/)
+[![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&color=informational)](https://www.cprogramming.com/)
+[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&color=informational)](https://www.cprogramming.com/)
+[![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=informational)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
 [![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&color=informational)](https://www.jetbrains.com/)
@@ -31,9 +38,4 @@
 [![Android Studio](https://img.shields.io/badge/tool-Android%20Studio-05122A?style=plastic&logo=android-studio&color=informational)](https://developer.android.com/studio)
 [![powerShell](https://img.shields.io/badge/Shell-powerShell-05122A?style=plastic&logo=powerShell&color=informational)](https://docs.microsoft.com/en-us/powershell/)
 [![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
-[![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&color=informational)](https://www.java.com/en/)
-[![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&color=informational)](https://www.cprogramming.com/)
-[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&color=informational)](https://www.cprogramming.com/)
-[![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=informational)](https://www.python.org/)
-[![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=flat&logo=docker&color=informational)](https://www.docker.com/)
-[![framework](https://img.shields.io/badge/framework-nodejs-05122A?style=flat&logo=javascript&color=informational)](https://nodejs.org/en/)
+[![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
