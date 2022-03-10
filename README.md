@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanfeysl&label=Profile%20views&color=informational&style=plastic" alt="abdelrahmanfeysl" /> </p> 
 
+[📫 How to reach me](#contact-me)
 
 ### Github Stats:
 <!--
@@ -45,7 +46,6 @@
 ### I'm a CS student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Backend. 
 * I’m currently learning Backend, cloud.
 * 💬 Ask me about Backend, cloud.
-* [📫 How to reach me](#contact-me).
 
 
 ## contact me
