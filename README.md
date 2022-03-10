@@ -63,8 +63,8 @@
 ## About Me:
 
 ### I'm a CS student at *Faculty of Computers and Artificial Intelligence Cairo University*, Passionate About Artificial Intelligence, Backend. 
-* I’m currently learning Backend, cloud.
-* 💬 Ask me about Backend, cloud.
+* I’m currently learning Backend, cloud, nodejs.
+* 💬 Ask me about Backend, cloud, nodejs, javascript.
 
 
 ## contact me
