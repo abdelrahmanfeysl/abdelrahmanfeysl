@@ -4,6 +4,9 @@
 
 [📫 How to reach me](#contact-me)
 
+
+<!-- Github Stats -->
+
 ### Github Stats:
 <!--
             &nbsp; -> space
@@ -18,7 +21,23 @@
     <img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanfeysl&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="Feysl's stats" />
 </p>
 
+<!-- Github Stats -->
 
+<!-- Important Projects -->
+
+### Important Projects
+<p align="left">
+<a href="https://github.com/abdelrahmanfeysl/angularApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahmanfeysl&repo=angularApp&layout=compact&theme=tokyonight" />
+</a>
+            &emsp;&emsp;&nbsp;&nbsp;
+<a href="https://github.com/abdelrahmanfeysl/weather-App">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahmanfeysl&repo=weather-App&layout=compact&theme=tokyonight" />
+</a>
+            
+</p>
+
+<!-- Important Projects -->
 
 ### Skills ( Languages & Tools ):
 [![framework](https://img.shields.io/badge/framework-nodejs-05122A?style=plastic&logo=javascript&color=informational)](https://nodejs.org/en/)
