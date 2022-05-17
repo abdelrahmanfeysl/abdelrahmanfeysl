@@ -23,21 +23,7 @@
 
 <!-- Github Stats -->
 
-<!-- Important Projects -->
 
-### Important Projects
-<p align="left">
-<a href="https://github.com/abdelrahmanfeysl/angularApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahmanfeysl&repo=angularApp&layout=compact&theme=tokyonight" />
-</a>
-            &emsp;&emsp;&nbsp;&nbsp;
-<a href="https://github.com/abdelrahmanfeysl/weather-App">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrahmanfeysl&repo=weather-App&layout=compact&theme=tokyonight" />
-</a>
-            
-</p>
-
-<!-- Important Projects -->
 
 
 
